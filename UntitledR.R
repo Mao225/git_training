@@ -1,1 +1,1 @@
-library(ggplot2) #this is a tool"
+library(ggplot2) #this is a visual tool"
